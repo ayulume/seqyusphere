@@ -20,6 +20,16 @@ h1 {
   color: #bb86fc;
 }
 
+p {
+  margin-top: 2rem;
+  color: #bb86fc;
+}
+
+.link {
+  margin-top: 2rem;
+  color: #811aff;
+}
+
 .lead {
   color: #aaa;
 }
